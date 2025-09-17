@@ -43,7 +43,7 @@ ThoraxAI is a cutting-edge medical diagnostic system that leverages state-of-the
 
 1. **Clone the repository**
    ```bash
-   git clone http://github.com/Brights-Solution/ThoraxAI
+   git clone https://github.com/syedamirhajawed-cmd/ThoraxAI.git
    cd ThoraxAI
    ```
 
